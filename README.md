@@ -128,11 +128,11 @@ kkl123 User Login
 ![](https://cdn.nlark.com/yuque/0/2025/png/28521795/1743505642442-a4553a49-d242-42cb-bd38-ca57691936ac.png)
 
 ```plain
-POST /yb/background/user/allocation.html HTTP/1.1
-Host: 192.168.196.142:8855
+POST /xx/xxxxxxxx/xxxx/allocation.html HTTP/1.1
+Host: 192.168.196.142:xxxx
 Content-Length: 17
 Content-Type: application/x-www-form-urlencoded; charset=UTF-8
-Origin: http://192.168.196.142:8855
+Origin: http://192.168.196.142:xxxx
 Cookie: JSESSIONID=cookie; DOMAIN_NAME=
 Connection: keep-alive
 
